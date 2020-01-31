@@ -1,6 +1,6 @@
 # Windows10_ImageCustomizer
 
-Folder Structure: (Needs to be created manualy)
+Folder Structure: (Needs to be created manually)
 
 Windows10_ImageCustomizer/ </br>
 ├── Driver/ <--- needs to bee created </br>
