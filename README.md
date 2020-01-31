@@ -17,3 +17,9 @@ Windows10_ImageCustomizer/ </br>
 │\
 └── Windows10_WIM/ <--- needs to bee created\
     └── (Place your clean WIM File here)
+
+All .bat Files needs to be executed as Administrator to run propably.
+
+Check Skripte\Debloat_WinImage.ps1 if it meets your requierments.
+
+The File Mount-WIM.bat mounts the WIM to the "TempMount" Folder so can  add your changes manually.
